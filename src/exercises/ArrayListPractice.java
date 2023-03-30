@@ -1,6 +1,7 @@
 package exercises;
 
 import java.util.Arrays;
+import java.util.ArrayList;
 
 public class ArrayListPractice {
     public static int sumEven(ArrayList<Integer> arr) {
