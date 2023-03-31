@@ -1,4 +1,4 @@
-package exercises;
+package org.launchcode.java.studios.countingcharacters;
 
 import java.util.Arrays;
 import java.util.HashMap;
